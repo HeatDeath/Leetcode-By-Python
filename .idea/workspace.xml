@@ -2,26 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b1b9f6-1b4f-4e82-8329-39e3b669ef90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1-Two-Sum.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/136.-Single Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/167-Two-Sum-II-Input-array-is-sorted.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/203.-Remove Linked List Elements.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/344-Reverse String.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/389-Find the Difference.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/412-Fizz Buzz.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/448.-Find All Numbers Disappeared in an Array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/461-Hamming-Distance.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/463-Island Perimeter.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/476-Number Complement.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/485.-Max Consecutive Ones.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/496-Next Greater Element I.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/500-Keyboard Row.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/504-Base 7.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/520.-Detect Capital.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/557-Reverse Words in a String III.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/561-Array-Partition-I.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/566-Reshape-the-Matrix.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/104-Maximum Depth of Binary Tree.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121-Best Time to Buy and Sell Stock.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/169-Majority Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-Add Two Numbers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/217-Contains Duplicate.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/219-Contains Duplicate II.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/220-Contains Duplicate III.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/258-Add Digits.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/26-Remove Duplicates from Sorted Array.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27-Remove Element.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/283-Move Zeroes.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/292-Nim Game.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/387-First Unique Character in a String.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/415-Add Strings.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/492-Construct the Rectangle.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/53-Maximum Subarray.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/560-Subarray Sum Equals K.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/575-Distribute Candies.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/66-Plus One.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/67-Add Binary.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7-Reverse Integer.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/136.-Single Number.py" afterPath="$PROJECT_DIR$/136-Single Number.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/203.-Remove Linked List Elements.py" afterPath="$PROJECT_DIR$/203-Remove Linked List Elements.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/485.-Max Consecutive Ones.py" afterPath="$PROJECT_DIR$/485-Max Consecutive Ones.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,26 +40,45 @@
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$476_Number_Complement.coverage" NAME="476-Number Complement Coverage Results" MODIFIED="1494001574829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$463_Island_Perimeter.coverage" NAME="463-Island Perimeter Coverage Results" MODIFIED="1494040212606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$520__Detect_Capital.coverage" NAME="520.-Detect Capital Coverage Results" MODIFIED="1494061762427" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121-Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1494224468270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$283_Move_Zeroes.coverage" NAME="283-Move Zeroes Coverage Results" MODIFIED="1494292190401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$415_Add_Strings.coverage" NAME="415-Add Strings Coverage Results" MODIFIED="1494244583288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$167_Two_Sum_II_Input_array_is_sorted.coverage" NAME="167-Two-Sum-II-Input-array-is-sorted Coverage Results" MODIFIED="1493961234228" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$557_Reverse_Words_in_a_String_III.coverage" NAME="557-Reverse Words in a String III Coverage Results" MODIFIED="1493999856697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$389_Find_the_Difference.coverage" NAME="389-Find the Difference Coverage Results" MODIFIED="1494133086169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$27_Remove_Element.coverage" NAME="27-Remove Element Coverage Results" MODIFIED="1494293475991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$492_Construct_the_Rectangle.coverage" NAME="492-Construct the Rectangle Coverage Results" MODIFIED="1494297032494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$448__Find_All_Numbers_Disappeared_in_an_Array.coverage" NAME="448.-Find All Numbers Disappeared in an Array Coverage Results" MODIFIED="1494063516411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$66_Plus_One.coverage" NAME="66-Plus One Coverage Results" MODIFIED="1494255793051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$500_Keyboard_Row.coverage" NAME="500-Keyboard Row Coverage Results" MODIFIED="1494004890296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$504_Base_7.coverage" NAME="504-Base 7 Coverage Results" MODIFIED="1494051764190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$1_Two_Sum.coverage" NAME="1-Two-Sum Coverage Results" MODIFIED="1493954326827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$412_Fizz_Buzz.coverage" NAME="412-Fizz Buzz Coverage Results" MODIFIED="1494006286445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$496_Next_Greater_Element_I.coverage" NAME="496-Next Greater Element I Coverage Results" MODIFIED="1494053930335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$566_Reshape_the_Matrix.coverage" NAME="566-Reshape-the-Matrix Coverage Results" MODIFIED="1493998793088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$53_Maximum_Subarray.coverage" NAME="53-Maximum Subarray Coverage Results" MODIFIED="1494228166119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$7_Reverse_Integer.coverage" NAME="7-Reverse Integer Coverage Results" MODIFIED="1494232832660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Leetcode_By_Python$461_Hamming_Distance.coverage" NAME="461-Hamming-Distance Coverage Results" MODIFIED="1493991487635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Leetcode_By_Python$258_Add_Digits.coverage" NAME="258-Add Digits Coverage Results" MODIFIED="1494258833255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="389-Find the Difference.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/389-Find the Difference.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="387-First Unique Character in a String.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/387-First Unique Character in a String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="30">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="90" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="169-Majority Element.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/169-Majority Element.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,6 +92,14 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tmp</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>flag</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,6 +126,28 @@
         <option value="$PROJECT_DIR$/520.-Detect Capital.py" />
         <option value="$PROJECT_DIR$/448.-Find All Numbers Disappeared in an Array.py" />
         <option value="$PROJECT_DIR$/389-Find the Difference.py" />
+        <option value="$PROJECT_DIR$/121-Best Time to Buy and Sell Stock.py" />
+        <option value="$PROJECT_DIR$/53-Maximum Subarray.py" />
+        <option value="$PROJECT_DIR$/217.-Contains Duplicate.py" />
+        <option value="$PROJECT_DIR$/217-Contains Duplicate.py" />
+        <option value="$PROJECT_DIR$/7-Reverse Integer.py" />
+        <option value="$PROJECT_DIR$/560-Subarray Sum Equals K.py" />
+        <option value="$PROJECT_DIR$/2-Add Two Numbers.py" />
+        <option value="$PROJECT_DIR$/67-Add Binary.py" />
+        <option value="$PROJECT_DIR$/415-Add Strings.py" />
+        <option value="$PROJECT_DIR$/219-Contains Duplicate II.py" />
+        <option value="$PROJECT_DIR$/220-Contains Duplicate III.py" />
+        <option value="$PROJECT_DIR$/66-Plus One.py" />
+        <option value="$PROJECT_DIR$/575-Distribute Candies.py" />
+        <option value="$PROJECT_DIR$/258-Add Digits.py" />
+        <option value="$PROJECT_DIR$/104-Maximum Depth of Binary Tree.py" />
+        <option value="$PROJECT_DIR$/292-Nim Game.py" />
+        <option value="$PROJECT_DIR$/283-Move Zeroes.py" />
+        <option value="$PROJECT_DIR$/27-Remove Element.py" />
+        <option value="$PROJECT_DIR$/26-Remove Duplicates from Sorted Array.py" />
+        <option value="$PROJECT_DIR$/492-Construct the Rectangle.py" />
+        <option value="$PROJECT_DIR$/387-First Unique Character in a String.py" />
+        <option value="$PROJECT_DIR$/169-Majority Element.py" />
       </list>
     </option>
   </component>
@@ -104,10 +158,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="2" />
-    <option name="width" value="1932" />
-    <option name="height" value="1086" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1098" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -146,7 +200,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/Programs/Python/Python35/python.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunDashboard">
@@ -161,8 +215,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.389-Find the Difference">
-    <configuration default="false" name="496-Next Greater Element I" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.492-Construct the Rectangle">
+    <configuration default="false" name="66-Plus One" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -175,13 +229,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode-By-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/496-Next Greater Element I.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/66-Plus One.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="485.-Max Consecutive Ones" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="258-Add Digits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -194,13 +248,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode-By-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/485.-Max Consecutive Ones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/258-Add Digits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="520.-Detect Capital" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="283-Move Zeroes" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -213,13 +267,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode-By-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/520.-Detect Capital.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/283-Move Zeroes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="448.-Find All Numbers Disappeared in an Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="27-Remove Element" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -232,13 +286,13 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode-By-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/448.-Find All Numbers Disappeared in an Array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/27-Remove Element.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="389-Find the Difference" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="492-Construct the Rectangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -251,7 +305,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Leetcode-By-Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/389-Find the Difference.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/492-Construct the Rectangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -406,19 +460,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.496-Next Greater Element I" />
-      <item index="1" class="java.lang.String" itemvalue="Python.485.-Max Consecutive Ones" />
-      <item index="2" class="java.lang.String" itemvalue="Python.520.-Detect Capital" />
-      <item index="3" class="java.lang.String" itemvalue="Python.448.-Find All Numbers Disappeared in an Array" />
-      <item index="4" class="java.lang.String" itemvalue="Python.389-Find the Difference" />
+      <item index="0" class="java.lang.String" itemvalue="Python.66-Plus One" />
+      <item index="1" class="java.lang.String" itemvalue="Python.258-Add Digits" />
+      <item index="2" class="java.lang.String" itemvalue="Python.283-Move Zeroes" />
+      <item index="3" class="java.lang.String" itemvalue="Python.27-Remove Element" />
+      <item index="4" class="java.lang.String" itemvalue="Python.492-Construct the Rectangle" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.389-Find the Difference" />
-        <item index="1" class="java.lang.String" itemvalue="Python.448.-Find All Numbers Disappeared in an Array" />
-        <item index="2" class="java.lang.String" itemvalue="Python.520.-Detect Capital" />
-        <item index="3" class="java.lang.String" itemvalue="Python.485.-Max Consecutive Ones" />
-        <item index="4" class="java.lang.String" itemvalue="Python.496-Next Greater Element I" />
+        <item index="0" class="java.lang.String" itemvalue="Python.492-Construct the Rectangle" />
+        <item index="1" class="java.lang.String" itemvalue="Python.27-Remove Element" />
+        <item index="2" class="java.lang.String" itemvalue="Python.283-Move Zeroes" />
+        <item index="3" class="java.lang.String" itemvalue="Python.258-Add Digits" />
+        <item index="4" class="java.lang.String" itemvalue="Python.66-Plus One" />
       </list>
     </recent_temporary>
   </component>
@@ -445,21 +499,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="2" width="1932" height="1086" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32690248" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2497309" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24034335" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39871383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -478,11 +532,27 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="11" />
+      <option name="time" value="16" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/283-Move Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/389-Find the Difference.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/476-Number Complement.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -602,14 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/476-Number Complement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="202">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/504-Base 7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -634,7 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/203.-Remove Linked List Elements.py">
+    <entry file="file://$PROJECT_DIR$/203-Remove Linked List Elements.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
@@ -650,15 +712,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/485.-Max Consecutive Ones.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="24" lean-forward="true" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/136.-Single Number.py">
+    <entry file="file://$PROJECT_DIR$/136-Single Number.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
@@ -674,14 +728,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/448.-Find All Numbers Disappeared in an Array.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="43" lean-forward="true" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/412-Fizz Buzz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="480">
@@ -690,10 +736,202 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/476-Number Complement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/121-Best Time to Buy and Sell Stock.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/53-Maximum Subarray.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/217-Contains Duplicate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Reverse Integer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="41" lean-forward="true" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/560-Subarray Sum Equals K.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/448.-Find All Numbers Disappeared in an Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/415-Add Strings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/220-Contains Duplicate III.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" lean-forward="true" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/219-Contains Duplicate II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/67-Add Binary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="43" lean-forward="true" selection-start-line="3" selection-start-column="43" selection-end-line="3" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-Add Two Numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/66-Plus One.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="29" lean-forward="true" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/575-Distribute Candies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="39" lean-forward="true" selection-start-line="3" selection-start-column="39" selection-end-line="3" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/258-Add Digits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/104-Maximum Depth of Binary Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/292-Nim Game.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/283-Move Zeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/27-Remove Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/26-Remove Duplicates from Sorted Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/389-Find the Difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/492-Construct the Rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="3" lean-forward="false" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/485-Max Consecutive Ones.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/387-First Unique Character in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="90" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/169-Majority Element.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>

@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5b1b9f6-1b4f-4e82-8329-39e3b669ef90" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/104-Maximum Depth of Binary Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121-Best Time to Buy and Sell Stock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/169-Majority Element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/2-Add Two Numbers.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/217-Contains Duplicate.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/219-Contains Duplicate II.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/220-Contains Duplicate III.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/258-Add Digits.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/26-Remove Duplicates from Sorted Array.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/27-Remove Element.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/283-Move Zeroes.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/292-Nim Game.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/387-First Unique Character in a String.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/415-Add Strings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/492-Construct the Rectangle.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/53-Maximum Subarray.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/560-Subarray Sum Equals K.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/575-Distribute Candies.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/66-Plus One.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/67-Add Binary.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/7-Reverse Integer.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/136.-Single Number.py" afterPath="$PROJECT_DIR$/136-Single Number.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/203.-Remove Linked List Elements.py" afterPath="$PROJECT_DIR$/203-Remove Linked List Elements.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/485.-Max Consecutive Ones.py" afterPath="$PROJECT_DIR$/485-Max Consecutive Ones.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/242-Valid Anagram.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/438-Find All Anagrams in a String.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -64,21 +42,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="387-First Unique Character in a String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/387-First Unique Character in a String.py">
+      <file leaf-file-name="242-Valid Anagram.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/242-Valid Anagram.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="90" />
+            <state relative-caret-position="330">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="169-Majority Element.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/169-Majority Element.py">
+      <file leaf-file-name="438-Find All Anagrams in a String.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/438-Find All Anagrams in a String.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+            <state relative-caret-position="240">
+              <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -148,6 +126,8 @@
         <option value="$PROJECT_DIR$/492-Construct the Rectangle.py" />
         <option value="$PROJECT_DIR$/387-First Unique Character in a String.py" />
         <option value="$PROJECT_DIR$/169-Majority Element.py" />
+        <option value="$PROJECT_DIR$/242-Valid Anagram.py" />
+        <option value="$PROJECT_DIR$/438-Find All Anagrams in a String.py" />
       </list>
     </option>
   </component>
@@ -195,8 +175,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -537,14 +517,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/283-Move Zeroes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/389-Find the Difference.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -923,15 +895,31 @@
     <entry file="file://$PROJECT_DIR$/387-First Unique Character in a String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="90" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="4" selection-end-column="90" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/169-Majority Element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/242-Valid Anagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/438-Find All Anagrams in a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="25" lean-forward="true" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
           <folding />
         </state>
       </provider>
